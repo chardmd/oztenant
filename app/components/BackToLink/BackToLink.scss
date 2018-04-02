@@ -1,0 +1,28 @@
+.backToLink {
+  .container {
+    max-width: 1021px;
+    margin: 0 auto;
+    padding: 0 15px;
+    div {
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+    }
+    .icon {
+      width: 30px;
+      height: 30px;
+    }
+  }
+  .backBackground {
+    background: #7386a1;
+    vertical-align: middle;
+    line-height: 60px;
+  }
+  .link {
+    text-decoration: none;
+    color: #fff;
+    width: 100%;
+    font-weight: 400;
+    font-size: 18px;
+  }
+}

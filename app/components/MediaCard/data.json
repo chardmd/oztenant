@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Room",
+    "link": "room",
+    "description": "Place a free Room Wanted ad or find a room for yourself.",
+    "image": "../../images/reptile.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Bedspace",
+    "link": "bedpace",
+    "description": "Place a free Room Wanted ad or find a room for yourself.",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "title": "House / Unit",
+    "link": "house",
+    "description": "Place a free Room Wanted ad or find a room for yourself.",
+    "image": ""
+  }
+]

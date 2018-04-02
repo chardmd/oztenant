@@ -1,0 +1,718 @@
+[
+    {
+        "id": 1,
+        "name": "-"
+    },
+    {
+        "id": 2,
+        "name": "Allawah"
+    },
+    {
+        "id": 3,
+        "name": "Arncliffe"
+    },
+    {
+        "id": 4,
+        "name": "Artarmon"
+    },
+    {
+        "id": 5,
+        "name": "Ashfield"
+    },
+    {
+        "id": 6,
+        "name": "Asquith"
+    },
+    {
+        "id": 7,
+        "name": "Auburn"
+    },
+    {
+        "id": 8,
+        "name": "Banksia"
+    },
+    {
+        "id": 9,
+        "name": "Bankstown"
+    },
+    {
+        "id": 10,
+        "name": "Bardwell Park"
+    },
+    {
+        "id": 11,
+        "name": "Beecroft"
+    },
+    {
+        "id": 12,
+        "name": "Belmore"
+    },
+    {
+        "id": 13,
+        "name": "Berala"
+    },
+    {
+        "id": 14,
+        "name": "Berowra"
+    },
+    {
+        "id": 15,
+        "name": "Beverly Hills"
+    },
+    {
+        "id": 16,
+        "name": "Bexley North"
+    },
+    {
+        "id": 17,
+        "name": "Birrong"
+    },
+    {
+        "id": 18,
+        "name": "Blacktown"
+    },
+    {
+        "id": 19,
+        "name": "Bondi Junction"
+    },
+    {
+        "id": 20,
+        "name": "Burwood"
+    },
+    {
+        "id": 21,
+        "name": "Cabramatta"
+    },
+    {
+        "id": 22,
+        "name": "Camellia"
+    },
+    {
+        "id": 23,
+        "name": "Campbelltown"
+    },
+    {
+        "id": 24,
+        "name": "Campsie"
+    },
+    {
+        "id": 25,
+        "name": "Canley Vale"
+    },
+    {
+        "id": 26,
+        "name": "Canterbury"
+    },
+    {
+        "id": 27,
+        "name": "Caringbah"
+    },
+    {
+        "id": 28,
+        "name": "Carlingford"
+    },
+    {
+        "id": 29,
+        "name": "Carlton"
+    },
+    {
+        "id": 30,
+        "name": "Carramar"
+    },
+    {
+        "id": 31,
+        "name": "Casula"
+    },
+    {
+        "id": 32,
+        "name": "Central"
+    },
+    {
+        "id": 33,
+        "name": "Chatswood"
+    },
+    {
+        "id": 34,
+        "name": "Cheltenham"
+    },
+    {
+        "id": 35,
+        "name": "Chester Hill"
+    },
+    {
+        "id": 36,
+        "name": "Circular Quay"
+    },
+    {
+        "id": 37,
+        "name": "Clarendon"
+    },
+    {
+        "id": 38,
+        "name": "Clyde"
+    },
+    {
+        "id": 39,
+        "name": "Como"
+    },
+    {
+        "id": 40,
+        "name": "Concord West"
+    },
+    {
+        "id": 41,
+        "name": "Cronulla"
+    },
+    {
+        "id": 42,
+        "name": "Croydon"
+    },
+    {
+        "id": 43,
+        "name": "Denistone"
+    },
+    {
+        "id": 44,
+        "name": "Domestic Airport"
+    },
+    {
+        "id": 45,
+        "name": "Doonside"
+    },
+    {
+        "id": 46,
+        "name": "Dulwich Hill"
+    },
+    {
+        "id": 47,
+        "name": "Dundas"
+    },
+    {
+        "id": 48,
+        "name": "East Hills"
+    },
+    {
+        "id": 49,
+        "name": "East Richmond"
+    },
+    {
+        "id": 50,
+        "name": "Eastwood"
+    },
+    {
+        "id": 51,
+        "name": "Edgecliff"
+    },
+    {
+        "id": 52,
+        "name": "Edmondson Park"
+    },
+    {
+        "id": 53,
+        "name": "Emu Plains"
+    },
+    {
+        "id": 54,
+        "name": "Engadine"
+    },
+    {
+        "id": 55,
+        "name": "Epping"
+    },
+    {
+        "id": 56,
+        "name": "Erskineville"
+    },
+    {
+        "id": 57,
+        "name": "Fairfield"
+    },
+    {
+        "id": 58,
+        "name": "Flemington"
+    },
+    {
+        "id": 59,
+        "name": "Glenfield"
+    },
+    {
+        "id": 60,
+        "name": "Gordon"
+    },
+    {
+        "id": 61,
+        "name": "Granville"
+    },
+    {
+        "id": 62,
+        "name": "Green Square"
+    },
+    {
+        "id": 63,
+        "name": "Guildford"
+    },
+    {
+        "id": 64,
+        "name": "Gymea"
+    },
+    {
+        "id": 65,
+        "name": "Harris Park"
+    },
+    {
+        "id": 66,
+        "name": "Heathcote"
+    },
+    {
+        "id": 67,
+        "name": "Holsworthy"
+    },
+    {
+        "id": 68,
+        "name": "Homebush"
+    },
+    {
+        "id": 69,
+        "name": "Hornsby"
+    },
+    {
+        "id": 70,
+        "name": "Hurlstone Park"
+    },
+    {
+        "id": 71,
+        "name": "Hurstville"
+    },
+    {
+        "id": 72,
+        "name": "Ingleburn"
+    },
+    {
+        "id": 73,
+        "name": "International Airport"
+    },
+    {
+        "id": 74,
+        "name": "Jannali"
+    },
+    {
+        "id": 75,
+        "name": "Killara"
+    },
+    {
+        "id": 76,
+        "name": "Kings Cross"
+    },
+    {
+        "id": 77,
+        "name": "Kingsgrove"
+    },
+    {
+        "id": 78,
+        "name": "Kingswood"
+    },
+    {
+        "id": 79,
+        "name": "Kirrawee"
+    },
+    {
+        "id": 80,
+        "name": "Kogarah"
+    },
+    {
+        "id": 81,
+        "name": "Lakemba"
+    },
+    {
+        "id": 82,
+        "name": "Leightonfield"
+    },
+    {
+        "id": 83,
+        "name": "Leppington"
+    },
+    {
+        "id": 84,
+        "name": "Leumeah"
+    },
+    {
+        "id": 85,
+        "name": "Lewisham"
+    },
+    {
+        "id": 86,
+        "name": "Lidcombe"
+    },
+    {
+        "id": 87,
+        "name": "Lindfield"
+    },
+    {
+        "id": 88,
+        "name": "Liverpool"
+    },
+    {
+        "id": 89,
+        "name": "Loftus"
+    },
+    {
+        "id": 90,
+        "name": "Macarthur"
+    },
+    {
+        "id": 91,
+        "name": "Macdonaldtown"
+    },
+    {
+        "id": 92,
+        "name": "Macquarie Fields"
+    },
+    {
+        "id": 93,
+        "name": "Macquarie Park"
+    },
+    {
+        "id": 94,
+        "name": "Macquarie University"
+    },
+    {
+        "id": 95,
+        "name": "Marayong"
+    },
+    {
+        "id": 96,
+        "name": "Marrickville"
+    },
+    {
+        "id": 97,
+        "name": "Martin Place"
+    },
+    {
+        "id": 98,
+        "name": "Mascot"
+    },
+    {
+        "id": 99,
+        "name": "Meadowbank"
+    },
+    {
+        "id": 100,
+        "name": "Merrylands"
+    },
+    {
+        "id": 101,
+        "name": "Milsons Point"
+    },
+    {
+        "id": 102,
+        "name": "Minto"
+    },
+    {
+        "id": 103,
+        "name": "Miranda"
+    },
+    {
+        "id": 104,
+        "name": "Mortdale"
+    },
+    {
+        "id": 105,
+        "name": "Mount Colah"
+    },
+    {
+        "id": 106,
+        "name": "Mount Druitt"
+    },
+    {
+        "id": 107,
+        "name": "Mount Kuring-gai"
+    },
+    {
+        "id": 108,
+        "name": "Mulgrave"
+    },
+    {
+        "id": 109,
+        "name": "Museum"
+    },
+    {
+        "id": 110,
+        "name": "Narwee"
+    },
+    {
+        "id": 111,
+        "name": "Newtown"
+    },
+    {
+        "id": 112,
+        "name": "Normanhurst"
+    },
+    {
+        "id": 113,
+        "name": "North Strathfield"
+    },
+    {
+        "id": 114,
+        "name": "North Sydney"
+    },
+    {
+        "id": 115,
+        "name": "North Ryde"
+    },
+    {
+        "id": 116,
+        "name": "Oatley"
+    },
+    {
+        "id": 117,
+        "name": "Olympic Park"
+    },
+    {
+        "id": 118,
+        "name": "Padstow"
+    },
+    {
+        "id": 119,
+        "name": "Panania"
+    },
+    {
+        "id": 120,
+        "name": "Parramatta"
+    },
+    {
+        "id": 121,
+        "name": "Pendle Hill"
+    },
+    {
+        "id": 122,
+        "name": "Pennant Hills"
+    },
+    {
+        "id": 123,
+        "name": "Penrith"
+    },
+    {
+        "id": 124,
+        "name": "Penshurst"
+    },
+    {
+        "id": 125,
+        "name": "Petersham"
+    },
+    {
+        "id": 126,
+        "name": "Punchbowl"
+    },
+    {
+        "id": 127,
+        "name": "Pymble"
+    },
+    {
+        "id": 128,
+        "name": "Quakers Hill"
+    },
+    {
+        "id": 129,
+        "name": "Redfern"
+    },
+    {
+        "id": 130,
+        "name": "Regents Park"
+    },
+    {
+        "id": 131,
+        "name": "Revesby"
+    },
+    {
+        "id": 132,
+        "name": "Rhodes"
+    },
+    {
+        "id": 133,
+        "name": "Richmond"
+    },
+    {
+        "id": 134,
+        "name": "Riverstone"
+    },
+    {
+        "id": 135,
+        "name": "Riverwood"
+    },
+    {
+        "id": 136,
+        "name": "Rockdale"
+    },
+    {
+        "id": 137,
+        "name": "Rooty Hill"
+    },
+    {
+        "id": 138,
+        "name": "Rosehill"
+    },
+    {
+        "id": 139,
+        "name": "Roseville"
+    },
+    {
+        "id": 140,
+        "name": "Rydalmere"
+    },
+    {
+        "id": 141,
+        "name": "Schofields"
+    },
+    {
+        "id": 142,
+        "name": "Sefton"
+    },
+    {
+        "id": 143,
+        "name": "Seven Hills"
+    },
+    {
+        "id": 144,
+        "name": "St James"
+    },
+    {
+        "id": 145,
+        "name": "St Leonards"
+    },
+    {
+        "id": 146,
+        "name": "St Marys"
+    },
+    {
+        "id": 147,
+        "name": "St Peters"
+    },
+    {
+        "id": 148,
+        "name": "Stanmore"
+    },
+    {
+        "id": 149,
+        "name": "Strathfield"
+    },
+    {
+        "id": 150,
+        "name": "Summer Hill"
+    },
+    {
+        "id": 151,
+        "name": "Sutherland"
+    },
+    {
+        "id": 152,
+        "name": "Sydenham"
+    },
+    {
+        "id": 153,
+        "name": "Telopea"
+    },
+    {
+        "id": 154,
+        "name": "Tempe"
+    },
+    {
+        "id": 155,
+        "name": "Thornleigh"
+    },
+    {
+        "id": 156,
+        "name": "Toongabbie"
+    },
+    {
+        "id": 157,
+        "name": "Town Hall"
+    },
+    {
+        "id": 158,
+        "name": "Turramurra"
+    },
+    {
+        "id": 159,
+        "name": "Turrella"
+    },
+    {
+        "id": 160,
+        "name": "Villawood"
+    },
+    {
+        "id": 161,
+        "name": "Vineyard"
+    },
+    {
+        "id": 162,
+        "name": "Wahroonga"
+    },
+    {
+        "id": 163,
+        "name": "Waitara"
+    },
+    {
+        "id": 164,
+        "name": "Warrawee"
+    },
+    {
+        "id": 165,
+        "name": "Warwick Farm"
+    },
+    {
+        "id": 166,
+        "name": "Waterfall"
+    },
+    {
+        "id": 167,
+        "name": "Waverton"
+    },
+    {
+        "id": 168,
+        "name": "Wentworthville"
+    },
+    {
+        "id": 169,
+        "name": "Werrington"
+    },
+    {
+        "id": 170,
+        "name": "West Ryde"
+    },
+    {
+        "id": 171,
+        "name": "Westmead"
+    },
+    {
+        "id": 172,
+        "name": "Wiley Park"
+    },
+    {
+        "id": 173,
+        "name": "Windsor"
+    },
+    {
+        "id": 174,
+        "name": "Wolli Creek"
+    },
+    {
+        "id": 175,
+        "name": "Wollstonecraft"
+    },
+    {
+        "id": 176,
+        "name": "Woolooware"
+    },
+    {
+        "id": 177,
+        "name": "Wynyard"
+    },
+    {
+        "id": 178,
+        "name": "Yagoona"
+    },
+    {
+        "id": 179,
+        "name": "Yennora"
+    }
+]

@@ -1,0 +1,286 @@
+[
+    {
+        "id": 1,
+        "name": "-"
+    },
+    {
+        "id": 2,
+        "name": "Armadale"
+    },
+    {
+        "id": 3,
+        "name": "Ashfield"
+    },
+    {
+        "id": 4,
+        "name": "Aubin Grove"
+    },
+    {
+        "id": 5,
+        "name": "Bassendean"
+    },
+    {
+        "id": 6,
+        "name": "Bayswater"
+    },
+    {
+        "id": 7,
+        "name": "Beckenham"
+    },
+    {
+        "id": 8,
+        "name": "Bull Creek"
+    },
+    {
+        "id": 9,
+        "name": "Burswood"
+    },
+    {
+        "id": 10,
+        "name": "Butler"
+    },
+    {
+        "id": 11,
+        "name": "Canning Bridge"
+    },
+    {
+        "id": 12,
+        "name": "Cannington"
+    },
+    {
+        "id": 13,
+        "name": "Carlisle"
+    },
+    {
+        "id": 14,
+        "name": "Challis"
+    },
+    {
+        "id": 15,
+        "name": "City West"
+    },
+    {
+        "id": 16,
+        "name": "Claisebrook"
+    },
+    {
+        "id": 17,
+        "name": "Claremont"
+    },
+    {
+        "id": 18,
+        "name": "Clarkson"
+    },
+    {
+        "id": 19,
+        "name": "Cockburn Central"
+    },
+    {
+        "id": 20,
+        "name": "Cottesloe"
+    },
+    {
+        "id": 21,
+        "name": "Currambine"
+    },
+    {
+        "id": 22,
+        "name": "Daglish"
+    },
+    {
+        "id": 23,
+        "name": "East Guildford"
+    },
+    {
+        "id": 24,
+        "name": "East Perth"
+    },
+    {
+        "id": 25,
+        "name": "Edgewater"
+    },
+    {
+        "id": 26,
+        "name": "Elizabeth Quay"
+    },
+    {
+        "id": 27,
+        "name": "Fremantle"
+    },
+    {
+        "id": 28,
+        "name": "Glendalough"
+    },
+    {
+        "id": 29,
+        "name": "Gosnells"
+    },
+    {
+        "id": 30,
+        "name": "Grant Street"
+    },
+    {
+        "id": 31,
+        "name": "Greenwood"
+    },
+    {
+        "id": 32,
+        "name": "Guildford"
+    },
+    {
+        "id": 33,
+        "name": "Joondalup"
+    },
+    {
+        "id": 34,
+        "name": "Karrakatta"
+    },
+    {
+        "id": 35,
+        "name": "Kelmscott"
+    },
+    {
+        "id": 36,
+        "name": "Kenwick"
+    },
+    {
+        "id": 37,
+        "name": "Kwinana"
+    },
+    {
+        "id": 38,
+        "name": "Leederville"
+    },
+    {
+        "id": 39,
+        "name": "Loch Street"
+    },
+    {
+        "id": 40,
+        "name": "Maddington"
+    },
+    {
+        "id": 41,
+        "name": "Mandurah"
+    },
+    {
+        "id": 42,
+        "name": "Maylands"
+    },
+    {
+        "id": 43,
+        "name": "McIver"
+    },
+    {
+        "id": 44,
+        "name": "Meltham"
+    },
+    {
+        "id": 45,
+        "name": "Midland"
+    },
+    {
+        "id": 46,
+        "name": "Mosman Park"
+    },
+    {
+        "id": 47,
+        "name": "Mount Lawley"
+    },
+    {
+        "id": 48,
+        "name": "Murdoch"
+    },
+    {
+        "id": 49,
+        "name": "North Fremantle"
+    },
+    {
+        "id": 50,
+        "name": "Oats Street"
+    },
+    {
+        "id": 51,
+        "name": "Perth"
+    },
+    {
+        "id": 52,
+        "name": "Queens Park"
+    },
+    {
+        "id": 53,
+        "name": "Rockingham"
+    },
+    {
+        "id": 54,
+        "name": "Seaforth"
+    },
+    {
+        "id": 55,
+        "name": "Shenton Park"
+    },
+    {
+        "id": 56,
+        "name": "Sherwood"
+    },
+    {
+        "id": 57,
+        "name": "Showgrounds"
+    },
+    {
+        "id": 58,
+        "name": "Stirling"
+    },
+    {
+        "id": 59,
+        "name": "Subiaco"
+    },
+    {
+        "id": 60,
+        "name": "Success Hill"
+    },
+    {
+        "id": 61,
+        "name": "Swanbourne"
+    },
+    {
+        "id": 62,
+        "name": "Thornlie"
+    },
+    {
+        "id": 63,
+        "name": "Victoria Park"
+    },
+    {
+        "id": 64,
+        "name": "Victoria Street"
+    },
+    {
+        "id": 65,
+        "name": "Warnbro"
+    },
+    {
+        "id": 66,
+        "name": "Warwick"
+    },
+    {
+        "id": 67,
+        "name": "Wellard"
+    },
+    {
+        "id": 68,
+        "name": "Welshpool"
+    },
+    {
+        "id": 69,
+        "name": "West Leederville"
+    },
+    {
+        "id": 70,
+        "name": "Whitfords"
+    },
+    {
+        "id": 71,
+        "name": "Woodbridge"
+    }
+]

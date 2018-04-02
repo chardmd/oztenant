@@ -1,0 +1,14 @@
+.roomSelector {
+    .label {
+        line-height: 52px;
+        vertical-align: middle;
+    }
+    .roomButton {
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    .selected {
+        background: #5adc78 !important;
+        color: #ffffff;
+    }
+}

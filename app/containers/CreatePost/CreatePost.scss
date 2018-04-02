@@ -1,0 +1,106 @@
+.createPost {
+    &>.container {
+        max-width: 1021px;
+        margin: 0 auto;
+        padding: 0 15px;
+        margin-top: 4em;
+    }
+    .citySelector {
+        width: 100%;
+        margin-bottom: 16px;
+        height: 37px;
+        &>div {
+            width: 100%;
+        }
+    }
+    .inputWidth {
+        margin-top: 16px;
+        width: 100%;
+    }
+    .paperWrapper {
+        margin: 0 25px;
+        margin-bottom: 45px;
+    }
+    .region select {
+        width: 96%;
+    }
+    .selectControl {
+        width: 100%;
+        margin-bottom: 16px;
+    }
+    .station {
+        margin-bottom: 16px;
+        margin-top: 3px;
+        width: 100%;
+    }
+    .fileUpload {
+        margin-top: 16px;
+    }
+    .label {
+        color: rgba(0, 0, 0, 0.54);
+        padding: 0;
+        font-size: 1rem;
+        font-family: 'Roboto', sans-serif;
+        line-height: 1;
+        transform: translate(0, 1.5px) scale(0.75);
+        transform-origin: top left;
+        margin-bottom: 5px;
+    }
+    .captcha {
+        margin-bottom: 16px;
+        margin-top: 5px;
+    }
+    .hidden {
+        display: none;
+    }
+    .baseDatePicker {
+        margin-top: 16px;
+        margin-bottom: 16px;
+        @media screen and (max-width: 554px) {
+            margin-top: 0px;
+        }
+    }
+    .imageContainer {
+        display: flex;
+    }
+    .baseMap {
+        margin-top: 15px;
+    }
+    .button {
+        margin-top: 10px;
+    }
+    .loading {
+        width: 25px;
+    }
+    .backToLink {
+        margin-top: 64px;
+    }
+    .backToLink {
+        .container {
+            max-width: 1021px;
+            margin: 0 auto;
+            padding: 0 15px;
+            div {
+                display: flex;
+                align-items: center;
+                cursor: pointer;
+            }
+            .icon {
+                width: 30px;
+                height: 30px;
+            }
+        }
+        .backBackground {
+            background: #7386a1;
+            vertical-align: middle;
+            line-height: 60px;
+        }
+        .link {
+            text-decoration: none;
+            color: #fff;
+            width: 100%;
+            font-weight: 400;
+            font-size: 18px;
+        }
+    }
+}

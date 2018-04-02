@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "name": "-"
+    },
+    {
+        "id": 2,
+        "name": "Adelaide"
+    },
+    {
+        "id": 3,
+        "name": "Adelaide Showground"
+    },
+    {
+        "id": 4,
+        "name": "Albert Park"
+    },
+    {
+        "id": 5,
+        "name": "Alberton"
+    },
+    {
+        "id": 6,
+        "name": "Ascot Park"
+    },
+    {
+        "id": 7,
+        "name": "Belair"
+    },
+    {
+        "id": 8,
+        "name": "Blackwood"
+    },
+    {
+        "id": 9,
+        "name": "Bowden"
+    },
+    {
+        "id": 10,
+        "name": "Brighton"
+    },
+    {
+        "id": 11,
+        "name": "Broadmeadows"
+    },
+    {
+        "id": 12,
+        "name": "Cheltenham"
+    },
+    {
+        "id": 13,
+        "name": "Chidda"
+    },
+    {
+        "id": 14,
+        "name": "Christie Downs"
+    },
+    {
+        "id": 15,
+        "name": "Clarence Park"
+    },
+    {
+        "id": 16,
+        "name": "Clovelly Park"
+    },
+    {
+        "id": 17,
+        "name": "Coromandel"
+    },
+    {
+        "id": 18,
+        "name": "Croydon"
+    },
+    {
+        "id": 19,
+        "name": "Draper"
+    },
+    {
+        "id": 20,
+        "name": "Dry Creek"
+    },
+    {
+        "id": 21,
+        "name": "Dudley Park"
+    },
+    {
+        "id": 22,
+        "name": "East Grange"
+    },
+    {
+        "id": 23,
+        "name": "Eden Hills"
+    },
+    {
+        "id": 24,
+        "name": "Edwardstown"
+    },
+    {
+        "id": 25,
+        "name": "Elizabeth"
+    },
+    {
+        "id": 26,
+        "name": "Elizabeth South"
+    },
+    {
+        "id": 27,
+        "name": "Emerson"
+    },
+    {
+        "id": 28,
+        "name": "Ethelton"
+    },
+    {
+        "id": 29,
+        "name": "Evanston"
+    },
+    {
+        "id": 30,
+        "name": "Gawler"
+    },
+    {
+        "id": 31,
+        "name": "Gawler Central"
+    },
+    {
+        "id": 32,
+        "name": "Gawler Oval"
+    },
+    {
+        "id": 33,
+        "name": "Gawler Racecourse"
+    },
+    {
+        "id": 34,
+        "name": "Glanville"
+    },
+    {
+        "id": 35,
+        "name": "Glenalta"
+    },
+    {
+        "id": 36,
+        "name": "Goodwood"
+    },
+    {
+        "id": 37,
+        "name": "Grange"
+    },
+    {
+        "id": 38,
+        "name": "Greenfields"
+    },
+    {
+        "id": 39,
+        "name": "Hallett Cove"
+    },
+    {
+        "id": 40,
+        "name": "Hallett Cove Beach"
+    },
+    {
+        "id": 41,
+        "name": "Hove"
+    },
+    {
+        "id": 42,
+        "name": "Islington"
+    },
+    {
+        "id": 43,
+        "name": "Kilburn"
+    },
+    {
+        "id": 44,
+        "name": "Kilkenny"
+    },
+    {
+        "id": 45,
+        "name": "Kudla"
+    },
+    {
+        "id": 46,
+        "name": "Largs"
+    },
+    {
+        "id": 47,
+        "name": "Largs North"
+    },
+    {
+        "id": 48,
+        "name": "Lonsdale"
+    },
+    {
+        "id": 49,
+        "name": "Lynton"
+    },
+    {
+        "id": 50,
+        "name": "Marino"
+    },
+    {
+        "id": 51,
+        "name": "Marino Rocks"
+    },
+    {
+        "id": 52,
+        "name": "Marion"
+    },
+    {
+        "id": 53,
+        "name": "Mawson"
+    },
+    {
+        "id": 54,
+        "name": "Midlunga"
+    },
+    {
+        "id": 55,
+        "name": "Mile End"
+    },
+    {
+        "id": 56,
+        "name": "Millswood"
+    },
+    {
+        "id": 57,
+        "name": "Mitcham"
+    },
+    {
+        "id": 58,
+        "name": "Mitchell Park"
+    },
+    {
+        "id": 59,
+        "name": "Munno Para"
+    },
+    {
+        "id": 60,
+        "name": "Noarlunga Centre"
+    },
+    {
+        "id": 61,
+        "name": "North Adelaide"
+    },
+    {
+        "id": 62,
+        "name": "North Haven"
+    },
+    {
+        "id": 63,
+        "name": "Nurlutta"
+    },
+    {
+        "id": 64,
+        "name": "Oaklands"
+    },
+    {
+        "id": 65,
+        "name": "Osborne"
+    },
+    {
+        "id": 66,
+        "name": "Outer Harbor"
+    },
+    {
+        "id": 67,
+        "name": "Ovingham"
+    },
+    {
+        "id": 68,
+        "name": "Parafield"
+    },
+    {
+        "id": 69,
+        "name": "Parafield Gardens"
+    },
+    {
+        "id": 70,
+        "name": "Peterhead"
+    },
+    {
+        "id": 71,
+        "name": "Pinera"
+    },
+    {
+        "id": 72,
+        "name": "Port Adelaide"
+    },
+    {
+        "id": 73,
+        "name": "Salisbury"
+    },
+    {
+        "id": 74,
+        "name": "Seacliff"
+    },
+    {
+        "id": 75,
+        "name": "Seaford"
+    },
+    {
+        "id": 76,
+        "name": "Seaford Meadows"
+    },
+    {
+        "id": 77,
+        "name": "Seaton Park"
+    },
+    {
+        "id": 78,
+        "name": "Smithfield"
+    },
+    {
+        "id": 79,
+        "name": "St Clair"
+    },
+    {
+        "id": 80,
+        "name": "Tambelin"
+    },
+    {
+        "id": 81,
+        "name": "Taperoo"
+    },
+    {
+        "id": 82,
+        "name": "Tonsley"
+    },
+    {
+        "id": 83,
+        "name": "Torrens Park"
+    },
+    {
+        "id": 84,
+        "name": "Unley Park"
+    },
+    {
+        "id": 85,
+        "name": "Warradale"
+    },
+    {
+        "id": 86,
+        "name": "West Croydon"
+    },
+    {
+        "id": 87,
+        "name": "Womma"
+    },
+    {
+        "id": 88,
+        "name": "Woodlands Park"
+    },
+    {
+        "id": 89,
+        "name": "Woodville"
+    },
+    {
+        "id": 90,
+        "name": "Woodville Park"
+    }
+]

@@ -1,0 +1,17 @@
+.main_BaseDatePicker {
+  & > .label {
+    color: rgba(0, 0, 0, 0.54);
+    padding: 0;
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1;
+    transform: translate(0, 1.5px) scale(0.75);
+    transform-origin: top left;
+  }
+  input {
+    padding: 4px 0;
+  }
+  & > div {
+    width: 100%;
+  }
+}

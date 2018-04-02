@@ -1,0 +1,53 @@
+.rentView {
+  p {
+    color: rgba(0, 0, 0, 0.87);
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+  }
+  h1 {
+    color: rgba(0, 0, 0, 0.54);
+    font-size: 2.8125rem;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 1021px;
+    margin: 0 auto;
+    padding: 0 15px;
+    margin-top: 2em;
+  }
+  .paperWrapper {
+    margin: 0 25px;
+    margin-bottom: 35px;
+  }
+  .title {
+    margin-bottom: 16px;
+  }
+  .datePrice {
+    margin-bottom: 16px;
+    display: flex;
+  }
+  .socialShare {
+    margin-bottom: 16px;
+  }
+  .description {
+    margin-bottom: 16px;
+  }
+  .price {
+    margin-bottom: 16px;
+  }
+  .region {
+    margin-bottom: 16px;
+  }
+  .station {
+    margin-bottom: 16px;
+  }
+  .imageViewer {
+    margin: 16px 0;
+  }
+  .loading {
+    margin: 0 auto;
+    color: #7386a1;
+  }
+}

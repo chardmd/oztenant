@@ -1,0 +1,19 @@
+.Location {
+    .chipWrapper {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .chip {
+        margin: 10px;
+        font-weight: bold;
+        letter-spacing: 1px;
+    }
+    .selected {
+        color: #fff;
+        background: #2196f3;
+    }
+    .selectedAvatar {
+        background: #fff;
+        color: #2196f3;
+    }
+}

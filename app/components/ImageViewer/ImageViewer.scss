@@ -1,0 +1,44 @@
+.imageViewer {
+    .gallery {
+        margin-right: 2px;
+        overflow: hidden;
+        @media (min-width: 500px) {
+            margin-right: 4px;
+        }
+    }
+    .thumbnail {
+        box-sizing: border-box;
+        display: block;
+        float: left;
+        line-height: 0;
+        padding-right: 2px;
+        padding-bottom: 2px;
+        overflow: hidden;
+        @media (min-width: 500px) {
+            padding-right: 4px;
+            padding-bottom: 4px;
+        }
+    }
+    .landspace {
+        width: 30%;
+    }
+    .square {
+        padding-bottom: 0;
+        width: 40%;
+        @media (min-width: 500px) {
+            padding-bottom: 0;
+        }
+    }
+    .source {
+        display: block;
+        height: auto;
+        max-width: 100%;
+        margin: 2px;
+        width: 200px;
+        width: 200px;
+        border: 2px solid transparent;
+    }
+    .source:hover {
+        border: 2px solid #7386a1;
+    }
+}

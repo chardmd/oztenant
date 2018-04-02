@@ -1,0 +1,21 @@
+.mediaCard {
+    .card {
+        max-width: 345px;
+        padding-bottom: 10px;
+        margin: 10px;
+    }
+    .media {
+        height: 200px;
+    }
+    .cardAction {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        &>a {
+            text-decoration: none;
+        }
+    }
+    .cardContent {
+        text-align: center;
+    }
+}

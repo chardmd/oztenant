@@ -1,0 +1,33 @@
+.searchBar {
+  max-width: 1021px;
+  margin: 8px 25px;
+  margin-bottom: 5px;
+  border: 1px solid #e6e9ed;
+  background: #fafbfc;
+  margin-top: 15px;
+  .inputWidth {
+    width: 100%;
+  }
+  .station {
+    margin-top: 16px;
+    width: 100%;
+  }
+  .citySelector {
+    & > div {
+      width: 100%;
+      margin-top: 16px;
+      text-align: left;
+    }
+  }
+  > .container {
+    background: white;
+    border-bottom: 2px solid #7386a1;
+  }
+  .gutter {
+    padding: 0 15px;
+  }
+  .button {
+    margin: 16px 0;
+    width: 100%;
+  }
+}

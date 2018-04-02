@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "label": "Sydney"
+    },
+    {
+        "id": 2,
+        "label": "Melbourne"
+    },
+    {
+        "id": 3,
+        "label": "Brisbane"
+    },
+    {
+        "id": 4,
+        "label": "Perth"
+    },
+    {
+        "id": 5,
+        "label": "Adelaide"
+    }
+]

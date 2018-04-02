@@ -1,0 +1,72 @@
+.homePage {
+    .searchWrapper {
+        color: #ffffff;
+        border-bottom: 3px solid #1da4de;
+        padding-bottom: 20px;
+        background: #e6ecf0 url('../../images/background.png') bottom no-repeat;
+        background-size: cover;
+        margin-top: 4em;
+    }
+    .container {
+        margin: 0 auto;
+        max-width: 1021px;
+        padding: 0 25px;
+    }
+    .header {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        flex-direction: column;
+        &>div {
+            margin-bottom: 5px;
+        }
+        .searchButton {
+            margin-top: 10px;
+            a {
+                text-decoration: none;
+            }
+            button {
+                padding: 8px 24px;
+                min-width: 184px;
+                min-height: 50px;
+                font-size: 21px;
+            }
+        }
+        .labelHeader {
+            font-size: 3em;
+            display: block;
+            font-family: 'Roboto', sans-serif;
+            padding-top: 15px;
+            color: #fff;
+            letter-spacing: 1px;
+            font-weight: 600;
+            text-shadow: 0 0 2px #0c0b0b;
+        }
+        .slogan {
+            letter-spacing: 1px;
+            font-family: 'Roboto', sans-serif;
+            color: #fcff9a;
+            margin-bottom: 10px;
+            font-size: 25px;
+            text-shadow: 0 0 5px #0c0b0b;
+        }
+    }
+    .label {
+        line-height: 52px;
+        vertical-align: middle;
+        color: #fff;
+        letter-spacing: 1px;
+        font-size: 15px;
+        text-shadow: 0 0 5px #0c0b0b;
+        font-weight: 800;
+    }
+    .location {
+        margin-top: 0;
+    }
+    .roomSelector {
+        margin-left: 5px;
+    }
+    .mediaCard {
+        margin: 3% 0;
+    }
+}
